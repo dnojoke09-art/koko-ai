@@ -5,3 +5,8 @@ openai-whisper
 pydub
 gtts
 python-multipart
+requests
+sounddevice
+scipy
+pygame
+customtkinter
